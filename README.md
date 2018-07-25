@@ -1,6 +1,6 @@
 # BOTS
 
-Bots here are scripts that automate various random tasks so that you don't have to do them manually. Typically, bots perform tasks that are both simple and structurally repetitive. In this repository, I've created my own minions to help me out with various stuff. I'm going to give names to each of these bots they are to be treated like pals. 
+Bots here are scripts that automate various random tasks so that you don't have to do them manually. Typically, bots perform tasks that are both simple and structurally repetitive. This repository contains minions created by myself to help me out with various stuff. All of them have names and they are to be treated like pals. 
 
 ![Cooperative Bots](https://github.com/a-y-u-s-h/screenshots/blob/gh-pages/bots/banner.jpg)
 
